@@ -18,7 +18,7 @@
 %SECTION%1%;Edges;
 %FIELDS%;edge_id;start_node;end_node;directed;length;specification;traversal_time;name;
 %DESCRIPTION%;ID;node_id;node_id;0 for undirected, 1 for directed;[m];{gate,runway,taxiway,taxiwayrunway,other};[s];name;
-;1;1;2;0;8.06225775;taxiway;8.06225775;;
+;1;1;2;0;8.06225775;gate;8.06225775;;
 ;2;2;3;0;6.40312424;taxiway;6.40312424;;
 ;3;3;4;0;7.07106781;taxiway;7.07106781;;
 ;4;4;5;0;3;taxiway;3;;
